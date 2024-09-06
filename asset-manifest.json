@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fathy-elghoul/kmit_platform/static/css/main.db8157de.css",
+    "main.js": "/Fathy-elghoul/kmit_platform/static/js/main.3b6b6072.js",
+    "static/js/453.cc988b90.chunk.js": "/Fathy-elghoul/kmit_platform/static/js/453.cc988b90.chunk.js",
+    "index.html": "/Fathy-elghoul/kmit_platform/index.html",
+    "main.db8157de.css.map": "/Fathy-elghoul/kmit_platform/static/css/main.db8157de.css.map",
+    "main.3b6b6072.js.map": "/Fathy-elghoul/kmit_platform/static/js/main.3b6b6072.js.map",
+    "453.cc988b90.chunk.js.map": "/Fathy-elghoul/kmit_platform/static/js/453.cc988b90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db8157de.css",
+    "static/js/main.3b6b6072.js"
+  ]
+}
